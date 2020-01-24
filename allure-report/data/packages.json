@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Non angular application",
+    "children" : [ {
+      "name" : "open google",
+      "uid" : "4027ba0aa1ae8c0",
+      "parentUid" : "0cfaaed9f8d65e9c6bd3912aacb87468",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579512975244,
+        "stop" : 1579513034341,
+        "duration" : 59097
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0cfaaed9f8d65e9c6bd3912aacb87468"
+  } ]
+}

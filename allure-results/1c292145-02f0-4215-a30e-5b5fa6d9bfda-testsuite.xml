@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1579263910444' stop='1579263965406'>
+    <name>Non angular application</name>
+    <title>Non angular application</title>
+    <test-cases>
+        <test-case start='1579263910444' status='passed' stop='1579263965405'>
+            <name>open google</name>
+            <title>open google</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

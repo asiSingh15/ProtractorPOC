@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Non angular application",
+    "children" : [ {
+      "name" : "open google",
+      "uid" : "4027ba0aa1ae8c0",
+      "parentUid" : "d32f0e12795caad887392b35e8a6b64a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579512975244,
+        "stop" : 1579513034341,
+        "duration" : 59097
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d32f0e12795caad887392b35e8a6b64a"
+  } ]
+}

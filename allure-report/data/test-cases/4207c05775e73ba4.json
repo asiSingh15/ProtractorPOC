@@ -1,0 +1,44 @@
+{
+  "uid" : "4207c05775e73ba4",
+  "name" : "open google",
+  "fullName" : "Non angular application.open google",
+  "historyId" : "14ce12ead59e2a85e916f45ffc41f5c0",
+  "time" : {
+    "start" : 1579510023028,
+    "stop" : 1579510078660,
+    "duration" : 55632
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Non angular application"
+  }, {
+    "name" : "testClass",
+    "value" : "Non angular application"
+  }, {
+    "name" : "testMethod",
+    "value" : "open google"
+  }, {
+    "name" : "package",
+    "value" : "Non angular application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4207c05775e73ba4.json",
+  "parameterValues" : [ ]
+}
